@@ -1,0 +1,29 @@
+{
+  "id": "1947",
+  "question": "W Oracle przy wykonywaniu instrukcji CREATE PROCEDURE:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "są zakładane blokady wyłączne na występujące w treści procedury tabele",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "są zakładane blokady współdzielone na występujące w treści procedury tabele",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "nie są zakładane żadne blokady na występujące w treści procedury tabele",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "nie są zakładane blokady jeśli w treści występują tylko instrukcje SELECT",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1783099561924,
+  "$schema": "../../../schemas/subject-patch.json"
+}
